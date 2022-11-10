@@ -41,6 +41,8 @@ o when you click on add to cart on the products it will re-direct to cart page a
 
 o And finally checkout page after adding products to cart
 ![8](https://user-images.githubusercontent.com/90122849/200981060-074468be-c3ae-487b-910d-db014c89fdf0.jpg)
+![9](https://user-images.githubusercontent.com/90122849/200985570-f4da7a07-de40-4c49-93d9-ef6f1bf57757.jpg)
+
 
 
 Thank You
