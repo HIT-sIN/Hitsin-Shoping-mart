@@ -6,7 +6,7 @@
 * And PHP as backend 
 * Jquery as validations and all
 * Mysql for storing database
-
+The Working link of the website is here https://hit-sin.github.io/Hitsin-Shoping-mart/
 > Steps to run the application with screenshots
 o Firstly need to login to the application trough  "login.html" page
 
